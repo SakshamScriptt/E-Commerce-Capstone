@@ -1,0 +1,501 @@
+OrderID,OrderDate,Category,Region,PaymentMethod,Price,Quantity,CustomerAge,Revenue
+1001,2026-01-01,Beauty,South,UPI,3952,4,39.0,15808
+1002,2026-01-02,Sports,West,Net Banking,9606,4,54.0,38424
+1003,2026-01-03,Home & Kitchen,West,Cash on Delivery,14359,4,32.0,57436
+1004,2026-01-04,Sports,North,Cash on Delivery,1808,2,52.0,3616
+1005,2026-01-05,Sports,South,Credit Card,4677,4,45.0,18708
+1006,2026-01-06,Fashion,North,Cash on Delivery,9205,3,24.0,27615
+1007,2026-01-07,Home & Kitchen,East,Net Banking,10612,1,49.0,10612
+1008,2026-01-08,Home & Kitchen,East,UPI,7352,4,28.0,29408
+1009,2026-01-09,Home & Kitchen,North,Credit Card,6535,1,27.0,6535
+1010,2026-01-10,Sports,West,Credit Card,4094,2,26.0,8188
+1011,2026-01-11,Beauty,West,UPI,5341,1,40.0,5341
+1012,2026-01-12,Home & Kitchen,North,Cash on Delivery,1909,2,40.0,3818
+1013,2026-01-13,Sports,North,UPI,13494,3,40.0,40482
+1014,2026-01-14,Fashion,East,Cash on Delivery,5066,2,40.0,10132
+1015,2026-01-15,Beauty,West,UPI,11882,2,40.0,23764
+1016,2026-01-16,Fashion,North,Net Banking,4991,5,40.0,24955
+1017,2026-01-17,Beauty,East,Cash on Delivery,2055,4,40.0,8220
+1018,2026-01-18,Sports,West,Net Banking,1304,4,40.0,5216
+1019,2026-01-19,Electronics,South,Credit Card,13721,3,40.0,41163
+1020,2026-01-20,Beauty,East,UPI,1779,3,40.0,5337
+1021,2026-01-21,Fashion,West,Credit Card,14545,4,40.0,58180
+1022,2026-01-22,Sports,West,Credit Card,13692,5,58.0,68460
+1023,2026-01-23,Beauty,East,Credit Card,13864,4,28.0,55456
+1024,2026-01-24,Electronics,South,Credit Card,7583,5,56.0,37915
+1025,2026-01-25,Electronics,East,UPI,6486,3,41.0,19458
+1026,2026-01-26,Home & Kitchen,West,Credit Card,6119,1,63.0,6119
+1027,2026-01-27,Home & Kitchen,North,UPI,12269,3,36.0,36807
+1028,2026-01-28,Fashion,North,UPI,11593,3,21.0,34779
+1029,2026-01-29,Beauty,East,Net Banking,1887,2,43.0,3774
+1030,2026-01-30,Beauty,West,Cash on Delivery,14091,2,55.0,28182
+1031,2026-01-31,Home & Kitchen,North,Cash on Delivery,13380,2,59.0,26760
+1032,2026-02-01,Beauty,West,UPI,11453,2,49.0,22906
+1033,2026-02-02,Beauty,East,Net Banking,3179,5,56.0,15895
+1034,2026-02-03,Electronics,North,UPI,2606,4,62.0,10424
+1035,2026-02-04,Home & Kitchen,West,UPI,8673,1,63.0,8673
+1036,2026-02-05,Sports,North,UPI,4723,3,53.0,14169
+1037,2026-02-06,Home & Kitchen,East,Net Banking,5331,5,57.0,26655
+1038,2026-02-07,Sports,West,Cash on Delivery,3268,1,54.0,3268
+1039,2026-02-08,Electronics,North,Net Banking,12645,5,50.0,63225
+1040,2026-02-09,Fashion,East,Credit Card,3686,5,53.0,18430
+1041,2026-02-10,Beauty,North,Net Banking,11972,3,20.0,35916
+1042,2026-02-11,Electronics,North,Net Banking,3073,4,26.0,12292
+1043,2026-02-12,Beauty,South,Net Banking,13308,2,25.0,26616
+1044,2026-02-13,Fashion,South,Net Banking,3099,4,50.0,12396
+1045,2026-02-14,Fashion,East,Net Banking,4533,3,23.0,13599
+1046,2026-02-15,Electronics,South,Net Banking,8928,3,58.0,26784
+1047,2026-02-16,Fashion,East,Cash on Delivery,1804,3,56.0,5412
+1048,2026-02-17,Sports,South,Cash on Delivery,12122,1,21.0,12122
+1049,2026-02-18,Fashion,North,Net Banking,7868,4,30.0,31472
+1050,2026-02-19,Beauty,East,UPI,6377,4,19.0,25508
+1051,2026-02-20,Beauty,East,UPI,1801,5,22.0,9005
+1052,2026-02-21,Beauty,North,Cash on Delivery,3041,5,61.0,15205
+1053,2026-02-22,Beauty,East,Cash on Delivery,2551,5,44.0,12755
+1054,2026-02-23,Sports,East,Net Banking,7309,3,49.0,21927
+1055,2026-02-24,Home & Kitchen,South,Cash on Delivery,9133,4,38.0,36532
+1056,2026-02-25,Electronics,East,Net Banking,10768,3,25.0,32304
+1057,2026-02-26,Beauty,West,UPI,11872,1,55.0,11872
+1058,2026-02-27,Fashion,North,UPI,11349,5,25.0,56745
+1059,2026-02-28,Beauty,South,Credit Card,12490,3,20.0,37470
+1060,2026-03-01,Fashion,South,UPI,9496,3,61.0,28488
+1061,2026-03-02,Fashion,West,Cash on Delivery,574,1,20.0,574
+1062,2026-03-03,Beauty,North,UPI,7481,2,39.0,14962
+1063,2026-03-04,Sports,North,Net Banking,10867,4,23.0,43468
+1064,2026-03-05,Fashion,South,UPI,12616,2,19.0,25232
+1065,2026-03-06,Fashion,East,Credit Card,10781,5,40.0,53905
+1066,2026-03-07,Beauty,South,UPI,5975,3,61.0,17925
+1067,2026-03-08,Fashion,North,Net Banking,8732,1,19.0,8732
+1068,2026-03-09,Fashion,West,Net Banking,10773,1,55.0,10773
+1069,2026-03-10,Beauty,South,Cash on Delivery,7684,4,34.0,30736
+1070,2026-03-11,Beauty,North,UPI,6296,2,52.0,12592
+1071,2026-03-12,Electronics,South,Net Banking,7641,4,51.0,30564
+1072,2026-03-13,Sports,East,Credit Card,14189,3,40.0,42567
+1073,2026-03-14,Sports,South,Cash on Delivery,13375,4,47.0,53500
+1074,2026-03-15,Fashion,South,Credit Card,2122,1,25.0,2122
+1075,2026-03-16,Sports,North,UPI,8541,1,39.0,8541
+1076,2026-03-17,Fashion,North,UPI,841,5,61.0,4205
+1077,2026-03-18,Electronics,North,UPI,12744,5,53.0,63720
+1078,2026-03-19,Beauty,South,Cash on Delivery,2574,3,22.0,7722
+1079,2026-03-20,Beauty,East,Net Banking,8492,2,30.0,16984
+1080,2026-03-21,Beauty,West,Cash on Delivery,1145,4,46.0,4580
+1081,2026-03-22,Sports,West,Credit Card,13518,3,48.0,40554
+1082,2026-03-23,Electronics,North,Cash on Delivery,4763,5,64.0,23815
+1083,2026-03-24,Sports,North,Credit Card,9301,4,33.0,37204
+1084,2026-03-25,Sports,South,Cash on Delivery,14560,5,59.0,72800
+1085,2026-03-26,Electronics,West,Net Banking,6636,4,47.0,26544
+1086,2026-03-27,Electronics,North,Credit Card,9146,2,33.0,18292
+1087,2026-03-28,Electronics,East,UPI,11645,3,29.0,34935
+1088,2026-03-29,Electronics,East,UPI,10400,4,34.0,41600
+1089,2026-03-30,Beauty,North,Cash on Delivery,12164,1,33.0,12164
+1090,2026-03-31,Home & Kitchen,North,UPI,3469,1,29.0,3469
+1091,2026-04-01,Home & Kitchen,West,Credit Card,3528,4,25.0,14112
+1092,2026-04-02,Electronics,West,UPI,8143,4,37.0,32572
+1093,2026-04-03,Home & Kitchen,South,Net Banking,13489,4,20.0,53956
+1094,2026-04-04,Home & Kitchen,West,Net Banking,3181,1,33.0,3181
+1095,2026-04-05,Electronics,East,Cash on Delivery,4129,1,47.0,4129
+1096,2026-04-06,Home & Kitchen,East,Credit Card,14387,4,62.0,57548
+1097,2026-04-07,Sports,North,Net Banking,4725,5,40.0,23625
+1098,2026-04-08,Fashion,West,Net Banking,3567,5,45.0,17835
+1099,2026-04-09,Fashion,South,Credit Card,6441,2,57.0,12882
+1100,2026-04-10,Electronics,East,UPI,1886,3,22.0,5658
+1101,2026-04-11,Beauty,East,UPI,12468,5,37.0,500000
+1102,2026-04-12,Electronics,South,Cash on Delivery,3366,1,57.0,3366
+1103,2026-04-13,Beauty,South,UPI,5288,5,61.0,26440
+1104,2026-04-14,Fashion,East,Credit Card,12055,2,18.0,24110
+1105,2026-04-15,Electronics,East,Net Banking,5990,2,47.0,11980
+1106,2026-04-16,Sports,South,UPI,13581,3,38.0,40743
+1107,2026-04-17,Home & Kitchen,East,Cash on Delivery,4624,5,37.0,23120
+1108,2026-04-18,Beauty,North,UPI,8840,1,23.0,8840
+1109,2026-04-19,Home & Kitchen,North,Credit Card,4350,1,39.0,4350
+1110,2026-04-20,Home & Kitchen,South,Cash on Delivery,5915,4,35.0,23660
+1111,2026-04-21,Electronics,West,UPI,10750,1,25.0,10750
+1112,2026-04-22,Home & Kitchen,South,Cash on Delivery,8179,3,56.0,24537
+1113,2026-04-23,Sports,South,Credit Card,7319,3,49.0,21957
+1114,2026-04-24,Home & Kitchen,West,Net Banking,9828,1,50.0,9828
+1115,2026-04-25,Electronics,West,Credit Card,8878,1,33.0,8878
+1116,2026-04-26,Sports,West,Credit Card,11546,4,29.0,46184
+1117,2026-04-27,Fashion,North,Credit Card,9942,1,55.0,9942
+1118,2026-04-28,Home & Kitchen,East,Credit Card,1833,4,51.0,7332
+1119,2026-04-29,Electronics,North,Net Banking,12885,4,31.0,51540
+1120,2026-04-30,Fashion,East,Net Banking,4650,1,53.0,4650
+1121,2026-05-01,Fashion,North,Cash on Delivery,7266,2,50.0,14532
+1122,2026-05-02,Beauty,East,UPI,3211,2,40.0,6422
+1123,2026-05-03,Sports,North,Net Banking,5353,4,62.0,21412
+1124,2026-05-04,Home & Kitchen,West,Net Banking,13193,1,19.0,13193
+1125,2026-05-05,Electronics,South,UPI,6712,2,58.0,13424
+1126,2026-05-06,Beauty,North,Net Banking,7979,1,38.0,7979
+1127,2026-05-07,Sports,East,Credit Card,5908,1,19.0,5908
+1128,2026-05-08,Beauty,West,Credit Card,10477,1,44.0,10477
+1129,2026-05-09,Sports,North,UPI,8215,5,26.0,41075
+1130,2026-05-10,Sports,North,Cash on Delivery,9442,1,18.0,9442
+1131,2026-05-11,Home & Kitchen,West,Cash on Delivery,2262,5,28.0,11310
+1132,2026-05-12,Sports,North,UPI,12612,4,20.0,50448
+1133,2026-05-13,Beauty,South,UPI,7601,2,40.0,15202
+1134,2026-05-14,Sports,North,Credit Card,8174,2,43.0,16348
+1135,2026-05-15,Home & Kitchen,South,Cash on Delivery,13152,2,21.0,26304
+1136,2026-05-16,Home & Kitchen,South,Net Banking,6622,2,35.0,13244
+1137,2026-05-17,Beauty,West,Credit Card,981,2,23.0,1962
+1138,2026-05-18,Fashion,North,UPI,653,2,52.0,1306
+1139,2026-05-19,Fashion,West,Cash on Delivery,8117,2,39.0,16234
+1140,2026-05-20,Sports,North,Net Banking,2024,4,60.0,8096
+1141,2026-05-21,Electronics,North,Net Banking,2620,1,32.0,2620
+1142,2026-05-22,Sports,East,Credit Card,2843,3,39.0,8529
+1143,2026-05-23,Beauty,North,Cash on Delivery,5636,5,54.0,28180
+1144,2026-05-24,Beauty,West,Cash on Delivery,6260,3,59.0,18780
+1145,2026-05-25,Beauty,South,UPI,1740,3,29.0,5220
+1146,2026-05-26,Beauty,North,Cash on Delivery,560,1,64.0,560
+1147,2026-05-27,Beauty,East,Cash on Delivery,9630,1,59.0,9630
+1148,2026-05-28,Home & Kitchen,West,Credit Card,2139,1,55.0,2139
+1149,2026-05-29,Fashion,North,Cash on Delivery,6685,2,35.0,13370
+1150,2026-05-30,Beauty,West,Net Banking,12812,4,62.0,51248
+1151,2026-05-31,Electronics,East,Credit Card,13850,2,52.0,27700
+1152,2026-06-01,Electronics,East,Credit Card,8470,4,47.0,33880
+1153,2026-06-02,Electronics,West,UPI,12918,4,41.0,51672
+1154,2026-06-03,Electronics,North,Cash on Delivery,12261,3,59.0,36783
+1155,2026-06-04,Home & Kitchen,South,UPI,1752,3,47.0,5256
+1156,2026-06-05,Electronics,East,Net Banking,4703,4,31.0,18812
+1157,2026-06-06,Beauty,North,Credit Card,8863,4,23.0,35452
+1158,2026-06-07,Sports,North,Credit Card,10150,2,20.0,20300
+1159,2026-06-08,Electronics,South,Credit Card,4049,2,33.0,8098
+1160,2026-06-09,Home & Kitchen,East,Net Banking,4697,3,24.0,14091
+1161,2026-06-10,Home & Kitchen,East,Net Banking,7509,1,31.0,7509
+1162,2026-06-11,Electronics,North,UPI,7167,4,26.0,28668
+1163,2026-06-12,Sports,North,UPI,2822,2,32.0,5644
+1164,2026-06-13,Electronics,South,UPI,10328,3,38.0,30984
+1165,2026-06-14,Home & Kitchen,South,Cash on Delivery,11807,2,52.0,23614
+1166,2026-06-15,Fashion,East,Credit Card,4590,4,19.0,18360
+1167,2026-06-16,Beauty,West,Credit Card,7460,4,44.0,29840
+1168,2026-06-17,Home & Kitchen,East,UPI,3504,5,19.0,17520
+1169,2026-06-18,Electronics,North,Credit Card,5636,1,52.0,5636
+1170,2026-06-19,Beauty,East,UPI,829,5,35.0,4145
+1171,2026-06-20,Electronics,West,Cash on Delivery,4140,3,31.0,12420
+1172,2026-06-21,Electronics,South,Cash on Delivery,12586,2,37.0,25172
+1173,2026-06-22,Fashion,West,Net Banking,14308,3,35.0,42924
+1174,2026-06-23,Beauty,West,Cash on Delivery,8482,4,27.0,33928
+1175,2026-06-24,Beauty,West,UPI,4607,5,42.0,23035
+1176,2026-06-25,Fashion,South,Cash on Delivery,1841,5,19.0,9205
+1177,2026-06-26,Home & Kitchen,West,Net Banking,12355,5,42.0,61775
+1178,2026-06-27,Electronics,West,Credit Card,8907,3,50.0,26721
+1179,2026-06-28,Sports,West,UPI,838,4,53.0,3352
+1180,2026-06-29,Electronics,North,Credit Card,6395,2,48.0,12790
+1181,2026-06-30,Electronics,West,Net Banking,12754,2,31.0,25508
+1182,2026-07-01,Home & Kitchen,South,Net Banking,3208,3,18.0,9624
+1183,2026-07-02,Electronics,West,Net Banking,11844,5,63.0,59220
+1184,2026-07-03,Fashion,West,Credit Card,2250,1,33.0,2250
+1185,2026-07-04,Fashion,South,Credit Card,6104,3,63.0,18312
+1186,2026-07-05,Beauty,West,Credit Card,2921,3,20.0,8763
+1187,2026-07-06,Sports,South,Credit Card,7619,4,52.0,30476
+1188,2026-07-07,Electronics,West,Net Banking,9401,2,58.0,18802
+1189,2026-07-08,Electronics,South,Net Banking,5819,3,23.0,17457
+1190,2026-07-09,Home & Kitchen,West,UPI,7109,3,42.0,21327
+1191,2026-07-10,Fashion,West,UPI,13900,5,30.0,69500
+1192,2026-07-11,Sports,North,Credit Card,5887,5,51.0,29435
+1193,2026-07-12,Beauty,North,Cash on Delivery,12418,1,25.0,12418
+1194,2026-07-13,Fashion,West,Cash on Delivery,12334,4,38.0,49336
+1195,2026-07-14,Beauty,West,Net Banking,4493,1,51.0,4493
+1196,2026-07-15,Home & Kitchen,East,Net Banking,9180,5,21.0,45900
+1197,2026-07-16,Home & Kitchen,South,Net Banking,8544,2,42.0,17088
+1198,2026-07-17,Electronics,East,UPI,14349,5,32.0,71745
+1199,2026-07-18,Sports,North,UPI,8738,4,21.0,34952
+1200,2026-07-19,Beauty,North,Net Banking,12051,5,62.0,60255
+1201,2026-07-20,Fashion,North,Net Banking,5373,4,29.0,21492
+1202,2026-07-21,Home & Kitchen,North,Net Banking,13827,4,49.0,55308
+1203,2026-07-22,Electronics,West,Cash on Delivery,5306,4,49.0,21224
+1204,2026-07-23,Electronics,North,UPI,9092,4,45.0,36368
+1205,2026-07-24,Beauty,West,Cash on Delivery,12682,4,30.0,50728
+1206,2026-07-25,Home & Kitchen,West,Cash on Delivery,6413,2,48.0,12826
+1207,2026-07-26,Sports,North,Net Banking,7624,1,31.0,7624
+1208,2026-07-27,Home & Kitchen,North,Net Banking,3657,3,37.0,10971
+1209,2026-07-28,Beauty,South,Credit Card,13037,1,35.0,13037
+1210,2026-07-29,Beauty,East,Credit Card,890,4,46.0,3560
+1211,2026-07-30,Home & Kitchen,North,Cash on Delivery,12545,2,23.0,25090
+1212,2026-07-31,Beauty,South,UPI,4930,5,49.0,24650
+1213,2026-08-01,Home & Kitchen,South,Net Banking,9320,2,46.0,18640
+1214,2026-08-02,Fashion,East,Net Banking,8186,4,60.0,32744
+1215,2026-08-03,Home & Kitchen,West,Cash on Delivery,4732,2,19.0,9464
+1216,2026-08-04,Home & Kitchen,North,Credit Card,11622,2,40.0,23244
+1217,2026-08-05,Beauty,East,UPI,8507,4,36.0,34028
+1218,2026-08-06,Beauty,North,Credit Card,2021,2,48.0,4042
+1219,2026-08-07,Electronics,South,Credit Card,9518,3,22.0,28554
+1220,2026-08-08,Electronics,South,Credit Card,13514,3,36.0,40542
+1221,2026-08-09,Fashion,West,Credit Card,2000,2,51.0,4000
+1222,2026-08-10,Electronics,South,Net Banking,7237,5,27.0,36185
+1223,2026-08-11,Home & Kitchen,South,Net Banking,3794,4,42.0,15176
+1224,2026-08-12,Beauty,East,Credit Card,5585,3,19.0,16755
+1225,2026-08-13,Electronics,North,UPI,2919,5,28.0,14595
+1226,2026-08-14,Electronics,North,Cash on Delivery,9626,2,48.0,19252
+1227,2026-08-15,Fashion,East,UPI,3542,5,32.0,17710
+1228,2026-08-16,Fashion,West,UPI,4997,1,26.0,4997
+1229,2026-08-17,Home & Kitchen,North,UPI,1966,3,40.0,5898
+1230,2026-08-18,Beauty,South,Credit Card,4061,2,36.0,8122
+1231,2026-08-19,Fashion,North,Net Banking,1114,4,26.0,4456
+1232,2026-08-20,Electronics,South,UPI,5892,2,52.0,11784
+1233,2026-08-21,Beauty,West,Credit Card,8193,4,38.0,32772
+1234,2026-08-22,Beauty,East,UPI,9874,2,26.0,19748
+1235,2026-08-23,Electronics,North,UPI,3723,5,45.0,18615
+1236,2026-08-24,Fashion,East,Credit Card,7638,5,63.0,38190
+1237,2026-08-25,Electronics,North,Net Banking,3167,5,24.0,15835
+1238,2026-08-26,Beauty,South,Net Banking,8480,1,33.0,8480
+1239,2026-08-27,Sports,East,Cash on Delivery,13909,4,33.0,55636
+1240,2026-08-28,Sports,North,Credit Card,630,5,50.0,3150
+1241,2026-08-29,Home & Kitchen,South,Cash on Delivery,13982,1,21.0,13982
+1242,2026-08-30,Electronics,East,Cash on Delivery,3483,4,21.0,13932
+1243,2026-08-31,Electronics,East,Cash on Delivery,4778,2,56.0,9556
+1244,2026-09-01,Home & Kitchen,North,Net Banking,7626,1,57.0,7626
+1245,2026-09-02,Home & Kitchen,North,Credit Card,13151,3,34.0,39453
+1246,2026-09-03,Home & Kitchen,North,Cash on Delivery,8730,1,54.0,8730
+1247,2026-09-04,Beauty,South,Credit Card,8194,1,56.0,8194
+1248,2026-09-05,Electronics,North,Credit Card,12651,4,46.0,50604
+1249,2026-09-06,Beauty,East,Net Banking,7140,2,53.0,14280
+1250,2026-09-07,Home & Kitchen,East,Cash on Delivery,12279,3,55.0,36837
+1251,2026-09-08,Electronics,North,Cash on Delivery,5968,5,56.0,29840
+1252,2026-09-09,Beauty,North,Credit Card,1420,5,54.0,7100
+1253,2026-09-10,Beauty,West,UPI,8064,1,52.0,8064
+1254,2026-09-11,Home & Kitchen,East,Net Banking,11461,4,24.0,45844
+1255,2026-09-12,Electronics,South,Net Banking,12803,4,44.0,51212
+1256,2026-09-13,Home & Kitchen,West,Net Banking,9184,5,45.0,45920
+1257,2026-09-14,Electronics,North,Net Banking,14237,3,39.0,42711
+1258,2026-09-15,Sports,North,Cash on Delivery,9823,2,31.0,19646
+1259,2026-09-16,Fashion,East,Cash on Delivery,12213,3,24.0,36639
+1260,2026-09-17,Fashion,North,UPI,9002,2,54.0,18004
+1261,2026-09-18,Fashion,South,Net Banking,9430,5,39.0,47150
+1262,2026-09-19,Home & Kitchen,East,Net Banking,3741,2,22.0,7482
+1263,2026-09-20,Sports,North,Credit Card,1045,4,19.0,4180
+1264,2026-09-21,Electronics,East,Cash on Delivery,11153,1,44.0,11153
+1265,2026-09-22,Beauty,North,Net Banking,4846,1,38.0,4846
+1266,2026-09-23,Electronics,North,UPI,13546,5,55.0,67730
+1267,2026-09-24,Beauty,North,UPI,10496,4,32.0,41984
+1268,2026-09-25,Electronics,South,Cash on Delivery,11904,3,38.0,35712
+1269,2026-09-26,Sports,South,UPI,14085,4,27.0,56340
+1270,2026-09-27,Beauty,East,UPI,14419,1,40.0,14419
+1271,2026-09-28,Home & Kitchen,North,Cash on Delivery,4310,1,56.0,4310
+1272,2026-09-29,Electronics,North,Net Banking,14702,4,22.0,58808
+1273,2026-09-30,Electronics,South,Net Banking,7706,4,18.0,30824
+1274,2026-10-01,Beauty,North,UPI,9505,1,30.0,9505
+1275,2026-10-02,Home & Kitchen,South,UPI,12816,3,38.0,38448
+1276,2026-10-03,Home & Kitchen,North,Net Banking,13745,5,43.0,68725
+1277,2026-10-04,Sports,East,Cash on Delivery,2532,5,62.0,12660
+1278,2026-10-05,Home & Kitchen,North,UPI,13264,4,38.0,53056
+1279,2026-10-06,Home & Kitchen,North,Credit Card,13105,5,35.0,65525
+1280,2026-10-07,Home & Kitchen,West,Cash on Delivery,8936,1,54.0,8936
+1281,2026-10-08,Fashion,South,UPI,13535,1,62.0,13535
+1282,2026-10-09,Sports,North,UPI,13484,4,49.0,53936
+1283,2026-10-10,Electronics,North,Credit Card,771,4,53.0,3084
+1284,2026-10-11,Beauty,West,Credit Card,4011,4,34.0,16044
+1285,2026-10-12,Electronics,West,Net Banking,2271,3,52.0,6813
+1286,2026-10-13,Sports,South,Cash on Delivery,9954,5,28.0,49770
+1287,2026-10-14,Beauty,West,Cash on Delivery,11116,4,38.0,44464
+1288,2026-10-15,Sports,East,Net Banking,4861,2,43.0,9722
+1289,2026-10-16,Home & Kitchen,West,Cash on Delivery,7569,2,21.0,15138
+1290,2026-10-17,Beauty,East,Cash on Delivery,1420,1,51.0,1420
+1291,2026-10-18,Home & Kitchen,South,Cash on Delivery,8690,5,35.0,43450
+1292,2026-10-19,Electronics,South,Cash on Delivery,3930,4,57.0,15720
+1293,2026-10-20,Electronics,South,Cash on Delivery,4935,2,52.0,9870
+1294,2026-10-21,Beauty,South,Credit Card,13176,5,58.0,65880
+1295,2026-10-22,Beauty,South,Cash on Delivery,11316,1,46.0,11316
+1296,2026-10-23,Sports,East,Credit Card,4260,3,46.0,12780
+1297,2026-10-24,Sports,East,Cash on Delivery,2550,5,55.0,12750
+1298,2026-10-25,Home & Kitchen,South,Net Banking,12192,5,59.0,60960
+1299,2026-10-26,Beauty,West,UPI,1665,3,38.0,4995
+1300,2026-10-27,Electronics,North,Credit Card,9067,5,59.0,45335
+1301,2026-10-28,Sports,South,Cash on Delivery,2533,1,30.0,2533
+1302,2026-10-29,Sports,West,Net Banking,6967,1,58.0,6967
+1303,2026-10-30,Electronics,North,UPI,645,3,34.0,1935
+1304,2026-10-31,Sports,South,Credit Card,14769,4,26.0,59076
+1305,2026-11-01,Home & Kitchen,South,UPI,4888,2,58.0,9776
+1306,2026-11-02,Beauty,East,Net Banking,8332,4,18.0,33328
+1307,2026-11-03,Electronics,North,Credit Card,9123,5,19.0,45615
+1308,2026-11-04,Beauty,North,UPI,9396,2,46.0,18792
+1309,2026-11-05,Sports,West,Cash on Delivery,8673,3,50.0,26019
+1310,2026-11-06,Sports,East,Credit Card,14786,3,27.0,44358
+1311,2026-11-07,Electronics,East,UPI,3132,2,57.0,6264
+1312,2026-11-08,Home & Kitchen,East,Net Banking,4994,1,38.0,4994
+1313,2026-11-09,Fashion,East,Net Banking,8556,2,45.0,17112
+1314,2026-11-10,Electronics,North,Credit Card,8011,5,28.0,40055
+1315,2026-11-11,Fashion,North,UPI,9655,1,51.0,9655
+1316,2026-11-12,Fashion,South,Credit Card,10926,3,25.0,32778
+1317,2026-11-13,Home & Kitchen,South,Credit Card,10733,2,39.0,21466
+1318,2026-11-14,Fashion,East,UPI,2328,4,25.0,9312
+1319,2026-11-15,Fashion,East,UPI,10800,4,32.0,43200
+1320,2026-11-16,Home & Kitchen,East,Cash on Delivery,12760,5,34.0,63800
+1321,2026-11-17,Fashion,South,UPI,9630,4,40.0,38520
+1322,2026-11-18,Fashion,West,Net Banking,5305,2,41.0,10610
+1323,2026-11-19,Fashion,West,Credit Card,1306,2,62.0,2612
+1324,2026-11-20,Electronics,South,Credit Card,10155,4,36.0,40620
+1325,2026-11-21,Electronics,South,Net Banking,7986,2,22.0,15972
+1326,2026-11-22,Electronics,South,UPI,14113,5,49.0,70565
+1327,2026-11-23,Home & Kitchen,South,Net Banking,12107,1,61.0,12107
+1328,2026-11-24,Sports,South,Net Banking,8702,5,18.0,43510
+1329,2026-11-25,Fashion,South,Cash on Delivery,13873,5,40.0,69365
+1330,2026-11-26,Fashion,East,Net Banking,2368,2,54.0,4736
+1331,2026-11-27,Home & Kitchen,East,Credit Card,8378,1,25.0,8378
+1332,2026-11-28,Fashion,East,Net Banking,13559,2,30.0,27118
+1333,2026-11-29,Electronics,East,Credit Card,6190,3,25.0,18570
+1334,2026-11-30,Sports,South,Credit Card,14395,2,40.0,28790
+1335,2026-12-01,Beauty,West,Credit Card,8327,2,60.0,16654
+1336,2026-12-02,Fashion,North,UPI,5929,2,18.0,11858
+1337,2026-12-03,Electronics,South,Cash on Delivery,9576,1,62.0,9576
+1338,2026-12-04,Beauty,North,Credit Card,4064,2,41.0,8128
+1339,2026-12-05,Sports,West,Credit Card,1889,1,52.0,1889
+1340,2026-12-06,Beauty,East,UPI,12093,4,41.0,48372
+1341,2026-12-07,Electronics,West,Credit Card,7774,3,34.0,23322
+1342,2026-12-08,Beauty,South,Net Banking,13013,1,22.0,13013
+1343,2026-12-09,Home & Kitchen,East,Net Banking,1324,4,37.0,5296
+1344,2026-12-10,Beauty,South,Cash on Delivery,2765,1,38.0,2765
+1345,2026-12-11,Fashion,East,Credit Card,1436,1,57.0,1436
+1346,2026-12-12,Fashion,North,UPI,11492,3,48.0,34476
+1347,2026-12-13,Home & Kitchen,North,Net Banking,11245,5,63.0,56225
+1348,2026-12-14,Electronics,North,UPI,6902,5,53.0,34510
+1349,2026-12-15,Fashion,West,UPI,14699,1,28.0,14699
+1350,2026-12-16,Sports,South,Net Banking,4345,2,32.0,8690
+1351,2026-12-17,Fashion,West,UPI,2296,4,36.0,9184
+1352,2026-12-18,Fashion,North,Net Banking,8745,2,24.0,17490
+1353,2026-12-19,Electronics,South,UPI,7714,2,45.0,15428
+1354,2026-12-20,Beauty,North,Net Banking,1226,1,60.0,1226
+1355,2026-12-21,Fashion,West,Credit Card,3236,1,22.0,3236
+1356,2026-12-22,Home & Kitchen,West,Cash on Delivery,14332,1,22.0,14332
+1357,2026-12-23,Beauty,West,Net Banking,11862,1,47.0,11862
+1358,2026-12-24,Sports,North,Net Banking,13831,5,49.0,69155
+1359,2026-12-25,Electronics,South,Cash on Delivery,2413,1,25.0,2413
+1360,2026-12-26,Sports,South,Net Banking,14564,5,27.0,72820
+1361,2026-12-27,Beauty,North,Net Banking,10288,5,55.0,51440
+1362,2026-12-28,Beauty,South,UPI,10606,1,64.0,10606
+1363,2026-12-29,Beauty,North,Cash on Delivery,8157,3,49.0,24471
+1364,2026-12-30,Sports,South,Credit Card,2966,4,45.0,11864
+1365,2026-12-31,Beauty,East,Net Banking,11429,2,34.0,22858
+1366,2027-01-01,Sports,East,Cash on Delivery,9541,5,48.0,47705
+1367,2027-01-02,Beauty,West,UPI,10801,4,25.0,43204
+1368,2027-01-03,Home & Kitchen,East,Credit Card,7812,3,57.0,23436
+1369,2027-01-04,Beauty,East,Cash on Delivery,8694,2,42.0,17388
+1370,2027-01-05,Sports,East,Credit Card,12947,2,26.0,25894
+1371,2027-01-06,Fashion,North,Credit Card,8406,5,19.0,42030
+1372,2027-01-07,Beauty,East,Credit Card,12761,1,32.0,12761
+1373,2027-01-08,Fashion,East,Net Banking,5376,3,20.0,16128
+1374,2027-01-09,Home & Kitchen,West,Net Banking,7787,5,53.0,38935
+1375,2027-01-10,Electronics,East,UPI,1392,3,21.0,4176
+1376,2027-01-11,Home & Kitchen,East,UPI,10722,1,31.0,10722
+1377,2027-01-12,Beauty,South,Cash on Delivery,11852,1,58.0,11852
+1378,2027-01-13,Fashion,West,UPI,11068,5,58.0,55340
+1379,2027-01-14,Fashion,West,Credit Card,5175,1,42.0,5175
+1380,2027-01-15,Sports,West,Credit Card,2433,4,27.0,9732
+1381,2027-01-16,Fashion,West,Net Banking,1880,2,38.0,3760
+1382,2027-01-17,Sports,West,Credit Card,12373,5,53.0,61865
+1383,2027-01-18,Electronics,West,Cash on Delivery,1790,3,29.0,5370
+1384,2027-01-19,Beauty,North,Credit Card,2140,4,44.0,8560
+1385,2027-01-20,Sports,East,Credit Card,13739,5,57.0,68695
+1386,2027-01-21,Electronics,West,Cash on Delivery,7990,1,19.0,7990
+1387,2027-01-22,Fashion,East,UPI,11374,1,30.0,11374
+1388,2027-01-23,Fashion,East,UPI,9679,1,49.0,9679
+1389,2027-01-24,Electronics,North,Cash on Delivery,1718,1,48.0,1718
+1390,2027-01-25,Fashion,West,Net Banking,5516,3,33.0,16548
+1391,2027-01-26,Electronics,South,Credit Card,7381,4,49.0,29524
+1392,2027-01-27,Sports,North,Cash on Delivery,10047,2,49.0,20094
+1393,2027-01-28,Sports,South,Credit Card,12957,3,51.0,38871
+1394,2027-01-29,Electronics,East,Net Banking,13308,3,28.0,39924
+1395,2027-01-30,Sports,East,Credit Card,14274,2,27.0,28548
+1396,2027-01-31,Sports,North,Cash on Delivery,12827,2,32.0,25654
+1397,2027-02-01,Sports,North,Credit Card,10252,1,34.0,10252
+1398,2027-02-02,Home & Kitchen,South,UPI,10110,3,57.0,30330
+1399,2027-02-03,Beauty,West,Net Banking,1454,5,35.0,7270
+1400,2027-02-04,Fashion,South,Net Banking,9675,2,26.0,19350
+1401,2027-02-05,Home & Kitchen,North,Net Banking,7791,2,42.0,15582
+1402,2027-02-06,Sports,South,Cash on Delivery,1474,4,57.0,5896
+1403,2027-02-07,Electronics,North,Net Banking,4633,5,31.0,23165
+1404,2027-02-08,Sports,South,UPI,5870,5,42.0,29350
+1405,2027-02-09,Beauty,North,Cash on Delivery,4472,2,39.0,8944
+1406,2027-02-10,Sports,North,UPI,5795,1,47.0,5795
+1407,2027-02-11,Electronics,North,Credit Card,14413,4,37.0,57652
+1408,2027-02-12,Beauty,West,Credit Card,9605,5,38.0,48025
+1409,2027-02-13,Sports,South,Credit Card,13241,2,61.0,26482
+1410,2027-02-14,Beauty,South,Credit Card,8728,5,49.0,43640
+1411,2027-02-15,Fashion,South,UPI,12079,4,63.0,48316
+1412,2027-02-16,Fashion,North,Cash on Delivery,10403,4,38.0,41612
+1413,2027-02-17,Sports,South,Cash on Delivery,3520,3,52.0,10560
+1414,2027-02-18,Beauty,South,Net Banking,9487,2,49.0,18974
+1415,2027-02-19,Electronics,North,UPI,4536,4,47.0,18144
+1416,2027-02-20,Sports,East,Credit Card,5568,3,56.0,16704
+1417,2027-02-21,Fashion,North,UPI,13380,3,29.0,40140
+1418,2027-02-22,Fashion,South,Net Banking,5733,5,58.0,28665
+1419,2027-02-23,Sports,North,Net Banking,11803,5,64.0,59015
+1420,2027-02-24,Beauty,East,UPI,10016,3,35.0,30048
+1421,2027-02-25,Fashion,North,UPI,817,5,38.0,4085
+1422,2027-02-26,Beauty,South,UPI,2896,4,30.0,11584
+1423,2027-02-27,Fashion,East,Cash on Delivery,2662,1,38.0,2662
+1424,2027-02-28,Fashion,West,Credit Card,3245,4,25.0,12980
+1425,2027-03-01,Home & Kitchen,South,UPI,14134,3,63.0,42402
+1426,2027-03-02,Fashion,East,UPI,2091,3,57.0,6273
+1427,2027-03-03,Electronics,East,UPI,11803,4,63.0,47212
+1428,2027-03-04,Sports,West,Net Banking,14677,5,24.0,73385
+1429,2027-03-05,Sports,North,Net Banking,6683,5,40.0,33415
+1430,2027-03-06,Beauty,North,Cash on Delivery,4430,3,61.0,13290
+1431,2027-03-07,Fashion,South,Credit Card,10688,2,49.0,21376
+1432,2027-03-08,Electronics,West,Cash on Delivery,14560,5,28.0,72800
+1433,2027-03-09,Beauty,North,Credit Card,1812,4,39.0,7248
+1434,2027-03-10,Home & Kitchen,West,Net Banking,9977,5,39.0,49885
+1435,2027-03-11,Beauty,North,Net Banking,4811,4,60.0,19244
+1436,2027-03-12,Beauty,East,Net Banking,7814,3,42.0,23442
+1437,2027-03-13,Fashion,North,Cash on Delivery,2883,5,39.0,14415
+1438,2027-03-14,Home & Kitchen,West,UPI,3739,4,45.0,14956
+1439,2027-03-15,Beauty,East,UPI,2639,3,46.0,7917
+1440,2027-03-16,Electronics,East,Net Banking,2204,2,30.0,4408
+1441,2027-03-17,Electronics,East,UPI,7424,4,35.0,29696
+1442,2027-03-18,Sports,West,UPI,862,2,19.0,1724
+1443,2027-03-19,Home & Kitchen,South,Cash on Delivery,3104,2,46.0,6208
+1444,2027-03-20,Home & Kitchen,South,Credit Card,10408,1,38.0,10408
+1445,2027-03-21,Sports,South,Net Banking,13981,5,32.0,69905
+1446,2027-03-22,Beauty,West,Net Banking,13143,4,44.0,52572
+1447,2027-03-23,Home & Kitchen,East,Cash on Delivery,4786,2,48.0,9572
+1448,2027-03-24,Electronics,South,Cash on Delivery,4238,1,32.0,4238
+1449,2027-03-25,Electronics,West,UPI,2969,3,40.0,8907
+1450,2027-03-26,Fashion,South,Net Banking,5295,4,41.0,21180
+1451,2027-03-27,Home & Kitchen,North,Credit Card,6650,2,61.0,13300
+1452,2027-03-28,Beauty,South,Cash on Delivery,14968,5,30.0,74840
+1453,2027-03-29,Sports,South,Credit Card,1056,1,39.0,1056
+1454,2027-03-30,Sports,East,Credit Card,9517,2,60.0,19034
+1455,2027-03-31,Beauty,West,Net Banking,3308,5,54.0,16540
+1456,2027-04-01,Fashion,East,Net Banking,5650,2,50.0,11300
+1457,2027-04-02,Sports,East,Cash on Delivery,13213,4,20.0,52852
+1458,2027-04-03,Home & Kitchen,East,Net Banking,8061,4,36.0,32244
+1459,2027-04-04,Fashion,East,Net Banking,3219,4,40.0,12876
+1460,2027-04-05,Home & Kitchen,East,Net Banking,7006,1,46.0,7006
+1461,2027-04-06,Electronics,South,Credit Card,12200,4,47.0,48800
+1462,2027-04-07,Fashion,East,Cash on Delivery,4241,5,56.0,21205
+1463,2027-04-08,Sports,East,UPI,10266,2,61.0,20532
+1464,2027-04-09,Fashion,West,Credit Card,4498,3,64.0,13494
+1465,2027-04-10,Fashion,North,Net Banking,10821,5,42.0,54105
+1466,2027-04-11,Fashion,South,Credit Card,2903,5,54.0,14515
+1467,2027-04-12,Fashion,South,Net Banking,12021,4,64.0,48084
+1468,2027-04-13,Home & Kitchen,South,Net Banking,9280,1,25.0,9280
+1469,2027-04-14,Electronics,East,Credit Card,10704,2,59.0,21408
+1470,2027-04-15,Beauty,East,Cash on Delivery,10239,1,33.0,10239
+1471,2027-04-16,Fashion,East,Net Banking,794,2,25.0,1588
+1472,2027-04-17,Sports,West,Cash on Delivery,10677,2,18.0,21354
+1473,2027-04-18,Fashion,North,UPI,5843,1,61.0,5843
+1474,2027-04-19,Sports,East,Net Banking,14336,5,22.0,71680
+1475,2027-04-20,Home & Kitchen,North,Cash on Delivery,11809,2,20.0,23618
+1476,2027-04-21,Sports,West,Cash on Delivery,10382,1,18.0,10382
+1477,2027-04-22,Beauty,South,UPI,1636,2,21.0,3272
+1478,2027-04-23,Electronics,East,Cash on Delivery,14044,3,57.0,42132
+1479,2027-04-24,Sports,North,Cash on Delivery,2564,5,52.0,12820
+1480,2027-04-25,Sports,North,UPI,13147,4,49.0,52588
+1481,2027-04-26,Electronics,East,Net Banking,7509,2,59.0,15018
+1482,2027-04-27,Beauty,South,Cash on Delivery,13487,3,51.0,40461
+1483,2027-04-28,Fashion,South,Cash on Delivery,5043,4,60.0,20172
+1484,2027-04-29,Sports,South,Cash on Delivery,13462,4,42.0,53848
+1485,2027-04-30,Electronics,West,Credit Card,1507,2,27.0,3014
+1486,2027-05-01,Home & Kitchen,North,UPI,5945,1,38.0,5945
+1487,2027-05-02,Electronics,North,Credit Card,11206,2,63.0,22412
+1488,2027-05-03,Home & Kitchen,North,UPI,12218,3,56.0,36654
+1489,2027-05-04,Beauty,West,Net Banking,13373,4,44.0,53492
+1490,2027-05-05,Fashion,North,Net Banking,5852,2,44.0,11704
+1491,2027-05-06,Electronics,West,Cash on Delivery,9939,1,19.0,9939
+1492,2027-05-07,Sports,South,UPI,13781,2,58.0,27562
+1493,2027-05-08,Beauty,East,Net Banking,12594,5,30.0,62970
+1494,2027-05-09,Electronics,North,UPI,1935,1,26.0,1935
+1495,2027-05-10,Sports,North,Net Banking,1071,3,53.0,3213
+1496,2027-05-11,Electronics,South,Credit Card,2882,4,39.0,11528
+1497,2027-05-12,Home & Kitchen,East,Net Banking,9937,2,59.0,19874
+1498,2027-05-13,Electronics,West,Credit Card,10776,1,43.0,10776
+1499,2027-05-14,Electronics,East,Net Banking,5584,5,29.0,27920
+1500,2027-05-15,Electronics,South,Cash on Delivery,777,1,34.0,777
